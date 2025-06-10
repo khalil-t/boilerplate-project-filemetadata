@@ -20,7 +20,6 @@ A simple file upload API built using Express.js and Multer. It allows users to u
 - Multer
 - dotenv
 
-Install dependencies:
+## 🖼️ Website Preview
 
-```bash
-npm install express multer dotenv
+![Website Screenshot](./screen/github.PNG)
